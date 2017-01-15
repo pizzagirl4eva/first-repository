@@ -1,2 +1,2 @@
 # first-repository
-First Repository I've ever created. Probably will be filled with junk.
+Some tutorial told me to wriet some junk in here but I didn't feel like it so I put this in instead.
